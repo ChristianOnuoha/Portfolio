@@ -1,6 +1,6 @@
 # Hello, I’m Christian Onuoha.
 
-## 🎯 Business & Data Analyst | Transforming Data into Strategic Insights
+## Business Operations Analyst | Transforming Data into Strategic Insights
 
 > *“In God we trust, all others must bring data.”* - W. Edwards Deming
 
